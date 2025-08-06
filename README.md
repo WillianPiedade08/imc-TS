@@ -44,5 +44,5 @@ npm run reset-project
 
 ## Wireframes
 
-![01](./calcimc/assets/images/Captura%20de%20tela%202025-08-06%20083016.png)
-![02](./calcimc/assets/images/Captura%20de%20tela%202025-08-06%20083039.png)
+![01]()
+![02]()
